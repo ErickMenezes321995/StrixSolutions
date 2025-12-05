@@ -13,11 +13,9 @@ const root = ReactDOM.createRoot(
 
 console.log("Desenvolvido por:");
 console.log(
-  "Francely Nataly - Designer (https://www.linkedin.com/in/francelynatalyc/)"
+  "Erick Saraiva - Fron-tend (https://github.com/ErickMenezes321995/)"
 );
-console.log(
-  "Gabriel Gambarra - Front-End (https://www.linkedin.com/in/gabrielgambarra/)"
-);
+
 
 root.render(
   <React.StrictMode>
